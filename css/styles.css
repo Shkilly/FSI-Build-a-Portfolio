@@ -1,0 +1,37 @@
+* {
+    background-color: darkgoldenrod;
+    cursor: url(../images/cursor.png) pointer;
+}
+[src] {
+    display:block;
+    margin: 0 auto;
+    border-radius: 24%;
+}
+h1,
+h2 {
+    text-align: center;
+}
+
+ul li {
+    font-size: 18px;
+    color:dimgray;
+    list-style: lower-roman inside;
+    text-align: center;
+}
+.section-font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.about-me {
+    font-family: fantasy;
+}
+#myfav {
+    display:block;
+    margin: 0 auto;
+    width: 30%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    border-color: dimgray;
+    border-style: groove;
+    border-width: 5px;
+}
