@@ -1,6 +1,6 @@
-* {
+div {
     background-color: darkgoldenrod;
-    cursor: url(../images/cursor.png) pointer;
+    cursor: cell;
 }
 [src] {
     display:block;
